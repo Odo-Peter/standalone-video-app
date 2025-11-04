@@ -1,50 +1,70 @@
-# Welcome to your Expo app 👋
+# Handover Meeting Checklist
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Project:** Design Handover (Executive Screen, UI, Templates, New User Journey)  
+**Participants:** Peter Odo Ebere, Shola Akins, Oyindamola Adeleye, Ahmed, Daniel (optional), Mr. Ola (coordination)  
+**Prepared by:** [Peter Odo]  
+**Date:** [4th November, 2025]  
 
-## Get started
+---
 
-1. Install dependencies
+## 1. Figma Files & Unlinked Visuals
 
-   ```bash
-   npm install
-   ```
+- [x] Confirm all Figma files related to the **executive screen** have been located and linked.  
+- [x] Identify all **unlinked visuals or frames** and note where they are stored.  
+- [x] Clarify if unlinked visuals are located in **another Figma project, personal draft, or shared folder**.  
+- [x] Confirm **“Broad Shift” representative’s role** in helping identify and access unlinked files.  
+- [x] Document **naming conventions or organization tips** for locating visuals easily.  
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## 2. Unlinked Items & Design Alternatives
 
-In the output, you'll find options to open the app in a
+- [x] Ensure all **alternative design views** (e.g., ticket history UI) are included in the handover.  
+- [x] Verify inclusion of **other alternate or experimental views** not yet merged into the main Figma.  
+- [x] Clarify which items fall under the **new user journey epics** and their respective file locations.  
+- [x] Confirm all **email templates** (especially from last week) have been handed over.  
+- [x] Identify where email templates are stored (e.g., Figma, Notion, Drive, or another system).  
+- [x] Retrieve any **supporting assets** (icons, illustrations, components) tied to these templates.  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 3. Notification UI & Cleaned-Up Files
 
-## Get a fresh project
+- [] Confirm if any **notification UI drafts or concepts** exist (even if not on Figma).  
+- [] Retrieve any **documentation or notes** related to the notification UI design.  
+- [] Verify access to all **previously cleaned-up files** from the former colleague.  
+- [] Ensure cleaned-up files are **properly named and stored** for easy reference.  
+- [] Check for **dependencies or links** between old cleaned-up files and current designs.  
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
+## 4. Handover Meeting Coordination
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- [] Confirm the **handover meeting time** with Mr. Ola.  
+- [] Verify the **final list of participants** (including Ahmed and Daniel if needed).  
+- [] Prepare a clear **handover agenda/checklist** to guide the session.  
+- [] Plan for a **recording or summary note** if Shola Akins joins later.  
+- [] Assign someone to **document action points** during the handover.  
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 5. Current Work Status & Next Steps
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- [] Get an update on **permission bug fixes** done with Daniel — note any pending issues.  
+- [] Confirm expected **completion timeline** for the permissions task.  
+- [] Review **ticket history UI** — what’s pending from the last review?  
+- [] Discuss **global search UI** updates — clarify small change needed in the **organization section**.  
+- [] Identify any **unapproved or blocked UI components** needing final review.  
+- [] Outline **next design priorities** post-handover (e.g., templates, notifications).  
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 6. General Access & Documentation
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [] Confirm access to all **shared drives or cloud folders** (Figma, Google Drive, Notion, Jira, etc.).  
+- [] Gather any **handover notes, Loom recordings, or reference documentation** from previous designers.  
+- [] Request a **final summary list** of all items being handed over (files, links, assets, references).  
+- [] Verify **permissions/access rights** for everyone who will continue the work.  
+- [] Ensure a **backup or export** of all critical design files is saved for safekeeping.  
+
+---
